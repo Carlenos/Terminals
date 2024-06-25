@@ -1,0 +1,14 @@
+{
+  "main_command": ["set", "get", "calc", "play", "help", "art", "sleep", "full", "mid", "exit", "stop", "clear", "recompile", "game", "scada", "image"],
+  "--recompile": ["image"],
+  "--recompile—1——image—": ["all"],
+  "--get": ["content", "\\content", "\\content\\json_data\\data.json"],
+  "--set": ["\\content\\json_data\\data.json"],
+  "--set—2—img—name—": ["\\content\\images"],
+  "--set—2—win—color—": ["black", "white", "terminal-black", "rose", "buff"],
+  "--play": ["\\content\\songs"],
+  "--game": ["pitou-type", "anime-music-quiz"],
+  "--main_argument": ["\\content\\songs", "\\content\\images"],
+  "--calc": [""],
+  "--scada": ["modbus", "iec104", "s7comm"]
+}
